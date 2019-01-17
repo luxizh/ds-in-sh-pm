@@ -363,6 +363,9 @@ print("Frequency of malignants: ", freq["malignants"])
 print("Frequency of MALIGNANT:  ", freq["MALIGNANT"])
 print("Frequency of MALIGNANTS: ", freq["MALIGNANTS"])
 
+print("Frequency of malignant:  ", lowercase_freq["malignant"])
+print("Frequency of malignant:  ", lowercase_freq["malignants"])
+print("Frequency of malignant:  ", stem_freq["malign"])
 
 # ### Further analysis of interest
 
